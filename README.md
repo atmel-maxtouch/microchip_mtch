@@ -6,3 +6,4 @@ These channels can be configuration as buttons/keys or groups to create sliders 
 The MTCH3380P and MTCH3240P are part of the maXTouch family of touch controller chips using enhanced algorithms for noise avoidance, water tolerance and touch performance.
 These algorithms are built into the firmware of the chip to provide robust buttons/wheels and sliders solutions.
 
+The Linux driver is an I2C kernel level driver supporting the maXTouch OBP I2C protocol.
