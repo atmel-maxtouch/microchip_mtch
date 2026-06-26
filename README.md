@@ -7,3 +7,7 @@ The MTCH3380P and MTCH3240P are part of the maXTouch family of touch controller 
 These algorithms are built into the firmware of the chip to provide robust buttons/wheels and sliders solutions.
 
 The Linux driver is an I2C kernel level driver supporting the maXTouch OBP I2C protocol.
+
+For integration and configuration details on the MTCH Linux driver refer to the wiki link below:
+
+https://github.com/atmel-maxtouch/microchip_mtch/wiki
